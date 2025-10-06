@@ -193,5 +193,7 @@ aStarAlgo(start, goal)
 
 ### Output:
 <img width="939" height="346" alt="image" src="https://github.com/user-attachments/assets/f3186377-ae61-447b-af09-70a87295a6bc" />
+
 ### Result:
+
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
